@@ -1,7 +1,7 @@
 {
-  "name": "vue-ts-template",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "A template based vue and typescript",
+  "description": "{{description}}",
   "author": "liuwm",
   "private": true,
   "scripts": {
